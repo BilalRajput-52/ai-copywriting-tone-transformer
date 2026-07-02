@@ -212,7 +212,7 @@ production-scale infrastructure is included.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Bilal Rajput**
 Final-year BS-IT Student | Aspiring AI/ML Engineer
